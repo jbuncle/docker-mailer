@@ -42,7 +42,7 @@ running a command.
 
 ```
 echo "Hello" | docker run --rm -i --env-file=.env jbuncle/docker-mailer
-``
+```
 
 
 ### Real World Example
