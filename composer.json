@@ -1,0 +1,13 @@
+{
+    "name": "jbuncle/phpmailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "James Buncle",
+            "email": "jbuncle@hotmail.com"
+        }
+    ]
+}
